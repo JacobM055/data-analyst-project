@@ -1,2 +1,6 @@
 cheatsheet.md
 *.twbr
+.DS_Store
+.ipynb_checkpoints/
+venv/
+Churn Project.twbx
